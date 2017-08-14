@@ -25,3 +25,13 @@ Merger Déplacements et Domaines d'interventions
 PRENDRE RDV : mise en avant du tel
 
 Reprendre footer
+
+Mettre étoiles
+
+Obtenirs avis
+
+Mettre du gras
+
+Garantie : contenu like http://www.ets-berard.fr/nos-garanties/
+
+logo materiel
